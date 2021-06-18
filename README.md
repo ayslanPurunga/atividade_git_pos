@@ -19,6 +19,48 @@
 * Dolce Forminhas - Sistema Gerenciador de vendas - TCC
 
 ## __Redes Sociais__
+## __Experiencias Profissionais__
+
+* __MADESHOPPING__
+* Eletrecista 1/2 Oficial
+* 05/2020 à 06/2021 (atual)
+* Montagem de painéis e eletrocalhas, projeção de circuitos elétricos e cabos de alimentação.
+
+* __AMPLIAÇO__
+* Movimentador de mercadorias
+* 05/2019 à 08/2019
+* Armador de ferragens e análises de cargas
+
+* __SOMAVE AGROINDÚSTRIAL__
+* Auxiliar de produção(expedição)
+* 05/2018 à 05/2019
+* Estocagem em camarâ fria.
+## __CURSOS__
+* Eletrotécnico básico - Up Cursos
+* Cabeamento estruturado
+* Manutenção em geradores elétricos.
+* NodeJS com mongoDB - Udemy
+* Desenvolvimento Web Completo - Udemy
+* (Codr3r) Docker-ferramenta para desenvolvedores - Udemy
+* HTML e CSS3 - Udemy
+* Segurança em Tecnologia da Informação -Fundação bradesco
+* Wordpress na prática - Rock Content
+ 
+## __Conhecimentos__
+
+### __Soft Skills__
+
+* Sede por aprendizado.
+* Comunicativo e sociavel.
+* Proativo.
+* Ética.
+
+### __Hard Skills__
+
+* HTML5 e CSS3
+* Containeres e virtualização de servidor com Docker.
+* PHP & JS
+* Montagem de painéis e circuitos elétricos.
 
 * [GitHub](https://github.com/ayslanPurunga)
 * [linkedIn](https://www.linkedin.com/in/ayslan-fernandes-da-silva-5aa617171/)
