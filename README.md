@@ -4,4 +4,4 @@ Ayslan Fernandes da Silva
 
 *Umuarama-PR
 *E-mail: lukskill@hotmail.com
-*TELEFONE: (44) 99837-6518 (Tim)
+*Celular: (44) 99837-6518 (Tim)
