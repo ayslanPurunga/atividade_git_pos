@@ -41,3 +41,20 @@
 *HTML e CSS3 - Udemy
 *Segurança em Tecnologia da Informação -Fundação bradesco
 *Wordpress na prática - Rock Content
+
+##__Conhecimentos__
+
+###__Soft Skills__
+
+*Sede por aprendizado.
+*Comunicativo e sociavel.
+*Proativo.
+*Ética.
+
+###__Hard Skills__
+
+*HTML5 e CSS3
+*Containeres e virtualização de servidor com Docker.
+*PHP & JS
+*Montagem de painéis e circuitos elétricos.
+
