@@ -13,3 +13,7 @@
 
 *CURSO SUPERIOR - GRADUAÇÃO - INCOMPLETO
 *Cursando Sistemas para Internet - UniAlfa de Umuarama
+
+##__Projetos Pessoais__
+
+*Dolce Forminhas - Sistema Gerenciador de vendas - TCC
