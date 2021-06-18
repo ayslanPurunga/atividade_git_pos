@@ -13,12 +13,6 @@
 
 * CURSO SUPERIOR - GRADUAÇÃO - INCOMPLETO
 * Cursando Sistemas para Internet - UniAlfa de Umuarama
-
-## __Projetos Pessoais__
-
-* Dolce Forminhas - Sistema Gerenciador de vendas - TCC
-
-## __Redes Sociais__
 ## __Experiencias Profissionais__
 
 * __MADESHOPPING__
@@ -47,20 +41,22 @@
 * Wordpress na prática - Rock Content
  
 ## __Conhecimentos__
-
 ### __Soft Skills__
 
 * Sede por aprendizado.
 * Comunicativo e sociavel.
 * Proativo.
 * Ética.
-
 ### __Hard Skills__
 
 * HTML5 e CSS3
 * Containeres e virtualização de servidor com Docker.
 * PHP & JS
 * Montagem de painéis e circuitos elétricos.
+## __Projetos Pessoais__
+
+* Dolce Forminhas - Sistema Gerenciador de vendas - TCC
+## __Redes Sociais__
 
 * [GitHub](https://github.com/ayslanPurunga)
 * [linkedIn](https://www.linkedin.com/in/ayslan-fernandes-da-silva-5aa617171/)
