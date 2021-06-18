@@ -17,3 +17,9 @@
 ##__Projetos Pessoais__
 
 *Dolce Forminhas - Sistema Gerenciador de vendas - TCC
+
+##__Redes Sociais__
+
+*[GitHub](https://github.com/ayslanPurunga)
+*[linkedIn](https://www.linkedin.com/in/ayslan-fernandes-da-silva-5aa617171/)
+*[Twitter](https://twitter.com/Ayslan_FS)
